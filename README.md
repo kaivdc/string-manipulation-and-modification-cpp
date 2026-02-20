@@ -4,3 +4,4 @@ This project is a simple user input loop that allows the modification of strings
  - Skill in edge case resolution
  - Skill in error handling
  - Good coding practices
+Completed in Visual Studio Code, Simply runnable by downloading the executable and creating any required files via prompting within the console while code is running.
